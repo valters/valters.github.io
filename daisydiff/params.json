@@ -1,0 +1,6 @@
+{
+  "name": "DaisyDiff",
+  "tagline": "An open source Java library to compare text",
+  "body": "### Welcome. To use this DaisyDiff clone, add it to Maven dependencies of your project.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
