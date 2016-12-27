@@ -1,0 +1,8 @@
+{
+  "name": "DaisyDiff",
+  "description": "An open source Java library to compare text",
+  "version": "1.0.1",
+  "github" : {
+  	"repository_url": "https://github.com/valters/daisydiff"
+  }
+}

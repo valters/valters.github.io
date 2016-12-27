@@ -1,0 +1,8 @@
+{
+  "name": "xsdiff",
+  "description": "Compare XML XSD schemas providing semantic diff, simple and straight differences report",
+  "version": "1.0.0",
+  "github" : {
+  	"repository_url": "https://github.com/valters/xsdiff"
+  }
+}

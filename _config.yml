@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+
+title: Github projects
+description: My interests are version control, visualization of diffs, and practical applications to legal texts.
+show_downloads: false
+google_analytics: false
+
+github:
+    is_user_page: true
+    owner_name: Valters Vingolds
+    owner_url: https://github.com/valters/
