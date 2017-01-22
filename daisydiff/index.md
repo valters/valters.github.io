@@ -10,7 +10,7 @@ Like this:
 ~~~~
 <dependency>
     <groupId>io.github.valters</groupId>
-    <artifactId>xsdiff</artifactId>
+    <artifactId>daisydiff</artifactId>
     <version>{{site.data.daisydiff.version}}</version>
 </dependency>
 ~~~~
