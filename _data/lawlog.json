@@ -1,0 +1,8 @@
+{
+  "name": "lawlog",
+  "description": "Compares historic versions of law texts and shows comprehensive differences report.",
+  "version": "1.0.0",
+  "github" : {
+  	"repository_url": "https://github.com/valters/lawlog-play"
+  }
+}
