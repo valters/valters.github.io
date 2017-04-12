@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: Github projects
-description: My interests are version control, visualization of diffs, and practical applications to legal texts.
+description: My interests are version control, visualization of diffs, and practical applications of version control and diff visualization between versions of legal texts (comparing law versions).
 show_downloads: false
 google_analytics: false
 
